@@ -15,11 +15,3 @@ Development Team
 Student Name: Katrice Jemel C. Maligaya
 Course: System Integration and Architecture 1 
 Section: 2C
-
-Member Management Module
-
-Features
-- Register New Member
-- Update Member Information
-- Delete Member Record
-- Search Member
