@@ -9,6 +9,9 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
+- Inventory Management
+- Reports
+- User Accounts
   
 Development Team
 Student Name: Katrice Jemel C. Maligaya
